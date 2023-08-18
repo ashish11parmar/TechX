@@ -1,0 +1,59 @@
+
+
+.media {
+    align-items: center;
+    /* margin: 50px 0px 0px 0px; */
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+.post{
+    display: flex;
+    margin: 0px 0px 0px 50px;
+}
+
+.avtar {
+    width: 50px;
+    margin: 10px 0px 0px 10px;
+}
+
+.postbutton {
+    width: 80%;
+    height: 50px;
+    margin: 0px 0px 0px 10px;
+    text-align: start;
+    color: black;
+    text-decoration: none;
+    margin: 10px 0px 0px 10px;
+    padding: 10px 20px 0px;
+    background-color: white;
+    border: 1px solid rgba(19, 17, 17, 0.1);
+    border-radius: 50px;
+
+}
+.postbutton:hover{
+    width: 80%;
+    height: 50px;
+    margin: 10px 0px 0px 10px;
+    background-color: rgba(99, 92, 92, 0.042);
+    border: 1px solid rgba(19, 17, 17, 0.1);
+    border-radius: 50px;
+
+}
+
+.media1 {
+    margin: 10px 0px 0px 0px;
+}
+.upload{
+    background-color: white;
+    border: none;
+    height: 20rem;
+    margin: 0px 0px 10px 0px;
+    width: auto;
+    text-decoration: none;
+    color: black;
+}
+.icon{
+    width: 35px;
+    padding: 0px 10px 0px 0px;
+}
